@@ -1,5 +1,5 @@
 #                                           **👋 Olá, sou Caroline Tayar!**
-                    |Estudante em Desenvolvimento de Sistemas | Focada em Python, HTML e CSS|
+|                        Estudante em Desenvolvimento de Sistemas | Focada em Python, HTML e CSS|
 --
 ##**Sobre mim** 🌸
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
